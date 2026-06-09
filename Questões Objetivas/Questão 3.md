@@ -33,7 +33,7 @@ Considerando as informações apresentadas e o uso de bicicletas como alternativ
 - **D)** II e III, apenas.
 - **E)** I, II e III.
 
-## ## Resposta
+## Resposta
 
 > **Letra B**
 ## Explicação

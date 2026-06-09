@@ -38,7 +38,7 @@ Considerando as informações apresentadas e o alto índice de suicídio da popu
 - **E)** III e IV.
 
 
-## ## Resposta
+## Resposta
 
 > **Letra A**
 ## Explicação

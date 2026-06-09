@@ -38,7 +38,7 @@ A respeito dessas asserções, assinale a opção correta.
 - **D)** A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 - **E)** As asserções I e II são proposições falsas.
 
-## ## Resposta
+## Resposta
 
 > **Letra C**
 ## Explicação
