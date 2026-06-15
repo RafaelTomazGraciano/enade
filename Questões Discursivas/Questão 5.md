@@ -2,6 +2,8 @@
 
 Um heap binário é um arranjo que pode ser visualizado como uma árvore binária, sendo que cada nó da árvore corresponde a um elemento do arranjo, como pode ser observado na figura a seguir.
 
+![[heap.png]]
+
 Percebe-se que existem dois tipos de heaps: heaps máximo e heaps mínimo. O heap máximo é uma estrutura de dados que possibilita a consulta ou extração de forma eficiente do maior elemento de uma coleção. A propriedade de heap máximo especifica que um nó filho (no código calculado pelas funções left e right) tem sempre armazenado um valor menor ou igual ao seu pai.
 
 > CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C.
