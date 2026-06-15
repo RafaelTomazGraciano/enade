@@ -1,4 +1,5 @@
 # Questão 5
+## Enunciado
 
 Um heap binário é um arranjo que pode ser visualizado como uma árvore binária, sendo que cada nó da árvore corresponde a um elemento do arranjo, como pode ser observado na figura a seguir.
 
@@ -49,6 +50,9 @@ De acordo com as informações apresentadas, faça o que se pede nos itens a seg
 a) Como ficará o arranjo `int a[] = {2, 5, 8 ,13, 21, 1, 3, 34}` após a execução da função `buildHeap(a, 8)`.
 b) Apresente a complexidade de tempo no pior caso para a função `heapify`, use a notação $O$ ou $\Theta$.
 
-# Resposta
+## Sugestão de Resposta
 
-# Explicação
+a) O respondente deve mostrar que após a execução da função buildHeap o arranjo ficará da seguinte forma: {34, 21, 8, 13, 2, 1, 3, 5}.
+b) O respondente deve apresentar que no pior caso para a função heapify a complexidade de tempo ficará da seguinte forma: O(log n), sendo n o número de elementos do heap.
+
+## Resposta
