@@ -32,3 +32,6 @@ Considerando as informações do texto, avalie as afirmações a seguir.
 
 > **Letra E**
 ## Explicação
+
+
+
