@@ -25,6 +25,7 @@ a) Explique de que modo as cidades inteligentes podem contribuir para a melhoria
 
 b) Apresente uma proposta de intervenção urbana que pode gerar impacto social e contribuir para a melhoria da vida em comunidade. **(valor: 5,0 pontos)**
 
+---
 ## Sugestão de Resposta
 
 a) O respondente deve mencionar que as cidades inteligentes podem diminuir o impacto ambiental dos aglomerados urbanos, pois, ao utilizarem a tecnologia como um fator indispensável para modernizar e oferecer melhor infraestrutura e serviços, colaboram, por exemplo, com a redução no consumo de energia e na emissão de CO2.
@@ -37,4 +38,7 @@ para a melhoria da vida em comunidade. Exemplos de intervenção incluem:
 - Plano de ação a fim de oferecer serviços específicos a grupos menos favorecidos, como idosos ou população de rua.
 - Concepção de artefatos urbanos para melhorar a mobilidade urbana ou para permitir a passagem de fauna.
 Etc.
+
+---
 ## Resposta
+

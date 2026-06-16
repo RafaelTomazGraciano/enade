@@ -12,9 +12,12 @@ Nesse contexto, considere a figura a seguir.
 
 Com base no somador completo de 1-bit apresentado na figura, descreva sua tabela verdade e o diagrama do seu circuito lógico.
 
+---
 ## Resposta
 O respondente deve descrever a tabela verdade e desenhar o diagrama, conforme abaixo.
 ![[resposta-somador.png]]
 A tabela verdade pode ser feita de maneiras diferentes, trocando “1”s e “0” por “V” e “F”, ou por “T” ou “F”. Além disso, as linhas podem aparecer em qualquer ordem arbitrária.
+
+---
 ## Explicação
 

@@ -39,10 +39,24 @@ b) Há algum conjunto (P ou Q) satisfazível? Justifique sua resposta.
 c) Há algum conjunto (P ou Q) insatisfazível? Justifique sua resposta.
 d) A fórmula 6 é consequência lógica de Q? Justifique sua resposta.
 
+---
 ## Sugestão de Resposta
 a) O respondente deve dizer que a fórmula 3 contém uma tautologia, pois apresenta avaliação verdadeira para toda atribuição (coluna de Vs).
 b) O respondente deve indicar que o conjunto Q é satisfazível, pois todas as fórmulas de Q (4 e 5) são verdadeiras para as atribuições 3 e 4 (bastaria uma).
 c) O respondente deve indicar que o conjunto P não é satisfazível, pois não há nenhuma atribuição para a qual as fórmulas de P (1, 2 e 3) sejam todas verdadeiras.
 d) O respondente deve indicar que a fórmula 6 é consequência lógica de Q, pois todas as atribuições que satisfazem Q (3 e 4) também satisfazem 6.
+
+---
 ## Resposta
 
+
+
+---
+## Explicação
+
+
+
+---
+## Conceitos Relacionados
+
+- [[]]

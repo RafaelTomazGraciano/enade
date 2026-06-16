@@ -21,15 +21,12 @@ A partir das informações apresentadas, é correto afirmar que
 
 - **E)** a ascensão social depende de fatores viabilizadores que estão fora do alcance das camadas pobres, o que ocasiona conflitos sociais em busca do acesso a tais fatores.
 
+---
 ## Resposta
 
 > **Letra E**
 ## Explicação
 
-
-## Conceitos Relacionados
-
-- [[]]
 
 
 

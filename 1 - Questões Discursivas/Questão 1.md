@@ -35,15 +35,16 @@ Considerando as informações e os argumentos presentes nos textos I e II, disco
 
 **(valor: 10,0 pontos)**
 
+---
 ## Sugestão de Resposta
 
 O respondente deve, a partir dos argumentos presentes no texto I, refletir sobre as tensões existentes entre a arte e a cultura no Brasil contemporâneo e sobre a liberdade artística explicitado no artigo 5º da Constituição Federal (Texto II), de modo a perceber a ilegitimidade dos movimentos de censura que tem eclodido em determinados segmentos da sociedade brasileira.
 
 O respondente deve, ainda, apresentar duas ações educativas para a superação das tensões citadas, como: encontros de artistas e público em escolas e outros espaços públicos; projetos de visitação a espaços culturais, como museus e galerias, voltados para a formação de público/plateia; debates em espaços públicos a respeito da liberdade artística, etc.
+
+---
 ## Resposta
 
 
-## Conceitos Relacionados
 
-- [[]]
 

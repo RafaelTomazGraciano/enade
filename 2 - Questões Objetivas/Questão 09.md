@@ -22,3 +22,8 @@ Considerando que em ambientes diferentes são necessários algoritmos diferentes
 
 > **Letra E**
 ## Explicação
+
+
+## Conceitos Relacionados
+
+- [[]]
