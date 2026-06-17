@@ -36,7 +36,18 @@ Considerando a abordagem dos textos, avalie as afirmações a seguir.
 - **D)** II e III, apenas.
 - **E)** I, II e III.
 
+---
 ## Resposta
 
 > **Letra C**
+
+---
 ## Explicação
+
+A afirmação I é verdadeira. Os dois textos mostram preocupação com a qualidade das informações de saúde buscadas na internet. O Texto I destaca que informações equivocadas podem ser piores do que a falta de informação, e o Texto II alerta para os riscos do autodiagnóstico e da automedicação. Por isso, é correto dizer que ambos os textos evidenciam a importância de se ter critério ao buscar esse tipo de conteúdo.
+
+A afirmação II é verdadeira. O Texto I afirma que existe uma correlação positiva entre o conhecimento sobre doenças e a adoção de hábitos saudáveis, citando como exemplo o aumento dos diagnósticos precoces de câncer de mama e a diminuição do tabagismo. Isso mostra que, segundo o texto, a divulgação de informações de saúde tem contribuído para o esclarecimento da população.
+
+A afirmação III é falsa. O Texto II não defende de forma simples e direta o acesso a informações de saúde como algo positivo. Pelo contrário, o texto chama atenção para o perigo do autodiagnóstico e da automedicação, e destaca que boa parte das buscas na internet não segue critérios adequados. Portanto, o texto não defende esse acesso sem ressalvas, como a afirmação sugere.
+
+Como I e II estão corretas e III está errada, a resposta certa é a letra C.

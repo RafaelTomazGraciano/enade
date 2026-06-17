@@ -37,8 +37,20 @@ Considerando as informações apresentadas e o alto índice de suicídio da popu
 - **D)** II e IV.
 - **E)** III e IV.
 
-
+---
 ## Resposta
 
 > **Letra A**
+
+---
 ## Explicação
+
+A afirmação I é verdadeira. Os dois textos mostram que o índice de suicídio entre crianças e adolescentes indígenas é muito mais alto do que na população em geral. Esse dado revela uma situação de vulnerabilidade grave, o que justifica a necessidade de ações voltadas para garantir os direitos fundamentais desse grupo, como saúde, proteção e dignidade.
+
+A afirmação II é falsa. Os textos não mencionam dados específicos sobre os estados do Pará e do Tocantins. Essa informação não consta em nenhum dos textos apresentados.
+
+A afirmação III é falsa. Os povos indígenas são amparados por direitos e garantias constitucionais no Brasil, incluindo proteção à sua cultura e organização social. A Constituição Federal de 1988 garante esses direitos, contrariando o que a afirmação propõe.
+
+A afirmação IV é falsa. O texto mostra que o perfil de suicídio entre indígenas é diferente do perfil nacional: enquanto na população indígena o maior índice está entre crianças e adolescentes de 10 a 19 anos, no panorama nacional geral o maior índice está entre 15 e 20 anos. Por isso, ações preventivas voltadas para indígenas devem considerar essa particularidade, e não os elementos que afetam a população em geral na faixa de 15 a 20 anos.
+
+Como apenas a afirmação I está correta, a resposta certa é a letra A.

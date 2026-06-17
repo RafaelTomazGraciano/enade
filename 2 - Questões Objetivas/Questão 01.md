@@ -25,9 +25,18 @@ A partir das informações apresentadas, é correto afirmar que
 ## Resposta
 
 > **Letra E**
+
+---
 ## Explicação
 
+O texto mostra que a ascensão social no Brasil depende de fatores que estão concentrados nas camadas mais ricas, como acesso à boa educação, à saúde de qualidade e a empregos bem remunerados. Quem nasce na base da pirâmide não tem acesso fácil a esses fatores, o que mantém o ciclo de pobreza. Essa desigualdade no acesso aos "fatores viabilizadores" da ascensão é exatamente o que gera as tensões sociais mencionadas na alternativa, já que grupos que não conseguem mobilidade tendem a pressionar por mudanças e por mais acesso a essas oportunidades.
 
+As outras alternativas falham pelos motivos:
+
+- **A)** fala "fator demográfico" e "taxas de natalidade", que não aparecem no texto.
+- **B)** atribui a baixa mobilidade a uma "falta de organização social", uma causa que o texto não menciona. O texto fala de falta de acesso, não de falta de organização.
+- **C)** fala de um "fator ancestral", o que distorce a ideia de transmissão intergeracional de desigualdade (que é estrutural, não "ancestral" no sentido genético/cultural).
+- **D)** descreve um "ciclo vicioso" de subida e queda, mas o texto não fala de subida nenhuma, ele fala de estagnação na base da pirâmide.
 
 
 

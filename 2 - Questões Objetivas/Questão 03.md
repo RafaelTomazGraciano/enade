@@ -33,7 +33,18 @@ Considerando as informações apresentadas e o uso de bicicletas como alternativ
 - **D)** II e III, apenas.
 - **E)** I, II e III.
 
+---
 ## Resposta
 
 > **Letra B**
+
+---
 ## Explicação
+
+A afirmação II é verdadeira. O texto defende que o uso da bicicleta melhora a qualidade de vida nas cidades.
+
+A afirmação I é falsa. Ela diz que, por ocuparem pouco espaço, pode-se dispensar investimentos públicos em ciclovias, priorizando apenas campanhas de conscientização de motoristas. Isso contraria a ideia central do Texto I, que defende justamente a criação de ciclovias como parte fundamental para incentivar esse meio de transporte.
+
+A afirmação III é falsa. Ela afirma que, a partir da Alemanha nazista, o uso de bicicletas "tornou-se eficaz e passou a prevalecer nas cidades europeias". O texto não diz isso: ele apenas menciona que a Alemanha nazista criou as primeiras ciclovias por necessidade de espaço para veículos automotivos (a bicicleta era um "empecilho", não uma prioridade). É hoje, décadas depois, que a bicicleta ressurge como alternativa para melhorar a qualidade de vida, não como algo que já prevalecia desde a guerra.
+
+Como apenas a II é verdadeira, a resposta correta é a B.

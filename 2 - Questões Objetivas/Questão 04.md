@@ -26,7 +26,18 @@ A respeito dessas asserções, assinale a opção correta.
 - **D)** A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 - **E)** As asserções I e II são proposições falsas.
 
+---
 ## Resposta
 
 > **Letra B**
+
+---
 ## Explicação
+
+A asserção I é verdadeira. O texto define exatamente isso: trabalhadores autônomos que atuam em plataformas digitais (como apps de delivery e mobilidade), sem vínculo empregatício e sem proteção da legislação trabalhista, compõem a Gig Economy.
+
+A asserção II também é verdadeira. O texto confirma que esses trabalhadores arcam com os custos da própria atividade, enfrentam longas jornadas e relatam problemas de saúde, como dores na coluna e estresse.
+
+O ponto principal da questão é que, embora as duas afirmações sejam verdadeiras, a II não justifica a I. A definição do que é a Gig Economy (asserção I) não depende das consequências negativas que ela causa aos trabalhadores (asserção II). A asserção II descreve um efeito ou característica adicional da Gig Economy, não a razão pela qual ela é definida.
+
+Como ambas são verdadeiras, mas II não justifica I, a resposta correta é a B.

@@ -38,7 +38,16 @@ A respeito dessas asserções, assinale a opção correta.
 - **D)** A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 - **E)** As asserções I e II são proposições falsas.
 
+---
 ## Resposta
 
 > **Letra C**
+
+---
 ## Explicação
+
+A asserção I é verdadeira. O Texto I lista critérios para distinguir hortaliças "feias" (problema estético, sem afetar a qualidade) de hortaliças "estragadas" (problema real de qualidade). Essa é justamente a distinção central que o Texto II discute ao longo de todo o texto.
+
+A asserção II é falsa. Ela afirma que o Texto II defende que o desperdício é proporcional à exigência dos consumidores pela aparência, como se essa fosse a mensagem principal do texto. Mas a tese central do Texto II é outra: a solução para o problema está em conscientizar e educar toda a cadeia produtiva (varejistas e consumidores) para que saibam diferenciar o que é só estética do que realmente compromete a qualidade do alimento. A asserção II simplifica demais o argumento do texto, tratando como conclusão principal algo que é só um detalhe dentro de uma discussão mais ampla.
+
+Como I é verdadeira e II é falsa, a resposta correta é a C.

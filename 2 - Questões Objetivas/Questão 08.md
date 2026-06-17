@@ -30,7 +30,20 @@ A partir dos argumentos expostos no texto, avalie as afirmações a seguir.
 - **D)** I, III e IV.
 - **E)** II, III e IV.
 
+---
 ## Resposta
 
 > **Letra D**
+
+---
 ## Explicação
+
+A afirmação I é verdadeira. O texto explica que, na democracia consensual, o objetivo é governar para o máximo possível de pessoas, e não apenas seguir a opinião da maioria. Isso confirma que o bem comum nem sempre coincide com a vontade da maioria.
+
+A afirmação II é falsa. O texto não diz que a democracia consensual busca consenso "entre situação e oposição" como uma disputa entre dois lados. O texto explica que essa democracia busca ampliar o consenso para o interesse de todos, incluindo minorias, e não apenas equilibrar governo e oposição.
+
+A afirmação III é verdadeira. O texto relaciona a democracia majoritária a um modelo baseado na vontade da maioria. Esse modelo tende a gerar mais polarização e disputa entre posições divergentes, já que prioriza apenas o lado que tem mais votos, deixando de buscar um consenso mais amplo.
+
+A afirmação IV é verdadeira. O texto deixa claro que a democracia consensual busca governar para o máximo de pessoas possível, o que inclui considerar as necessidades das minorias, e não apenas da maioria.
+
+Como I, III e IV estão corretas e II está errada, a resposta certa é a letra D.

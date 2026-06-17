@@ -25,7 +25,18 @@ A respeito dessas asserções, assinale a opção correta.
 - **D)** A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 - **E)** As asserções I e II são proposições falsas.
 
+---
 ## Resposta
 
 > **Letra A**
+
+---
 ## Explicação
+
+A asserção I é verdadeira. O texto mostra que a queda na expectativa de vida durante a pandemia foi maior entre negros e latinos do que entre a população em geral. Essa diferença está relacionada à vulnerabilidade social desses grupos, que historicamente têm menos acesso a recursos de saúde e proteção.
+
+A asserção II também é verdadeira. O texto sugere que as más condições de trabalho desses grupos os expõem mais ao risco de contágio pelo coronavírus, o que ajuda a explicar a queda mais acentuada na expectativa de vida.
+
+Neste caso, a asserção II funciona como uma justificativa correta para a asserção I. A vulnerabilidade social mencionada na primeira afirmação pode ser explicada, em parte, pelas condições precárias de trabalho citadas na segunda afirmação, que aumentam a exposição ao vírus. As duas ideias se conectam de forma lógica e coerente com o que o texto apresenta.
+
+Como ambas as asserções são verdadeiras e a II justifica corretamente a I, a resposta certa é a letra A.
