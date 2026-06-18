@@ -32,3 +32,14 @@ A respeito dessas asserções, assinale a opção correta.
 
 > **Letra C**
 ## Explicação
+
+Antes de entender o porquê de uma ser correta e a outra ser falsa, tem que se entender o que é a Arquitetura de Von Neumann
+
+A arquitetura tem três componentes principais
+1. Processador - Uma "máquina" capaz de executar instruções genéricas e processar dados
+2. Memória - Onde está contido os **dados** e **código**
+3. Barramento - Espaço em que dados e código chegam e saem da CPU
+
+A arquitetura de Von Neumann é simples por natureza, ótima para produção em massa de computadores
+
+A segunda está se referindo ao cache de instrução. Ao invés de pegar sempre da memória RAM, desloca-se um bloco de tamanho definido para o cache, assim o contador de instrução precisa checar o cache e pegar do cache, diminuindo tempo de busca.
