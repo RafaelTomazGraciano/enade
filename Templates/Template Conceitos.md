@@ -1,7 +1,6 @@
-# {{title}}
+# <% tp.file.title %>
 
-## Área de Estudo: {{area}}
-
+## Área de Estudo: <% await tp.system.prompt('Qual area(s) deste conceito?') %>
 
 
 ## Explicação
