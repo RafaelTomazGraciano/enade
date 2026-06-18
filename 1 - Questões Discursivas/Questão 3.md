@@ -59,4 +59,4 @@ d) O respondente deve indicar que a fórmula 6 é consequência lógica de Q, po
 ---
 ## Conceitos Relacionados
 
-- [[]]
+- [[Propriedades de Proposições]]
