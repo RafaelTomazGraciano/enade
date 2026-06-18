@@ -1,6 +1,6 @@
-# <% tp.file.title %>
+# Indução
 
-## Área de Estudo: <% await tp.system.prompt('Qual area(s) deste conceito?') %>
+## Área de Estudo: IA
 
 
 ## Explicação
