@@ -43,3 +43,7 @@ A arquitetura tem três componentes principais
 A arquitetura de Von Neumann é simples por natureza, ótima para produção em massa de computadores
 
 A segunda está se referindo ao cache de instrução. Ao invés de pegar sempre da memória RAM, desloca-se um bloco de tamanho definido para o cache, assim o contador de instrução precisa checar o cache e pegar do cache, diminuindo tempo de busca.
+
+## Conceitos Relacionados
+
+- [[Arquitetura de Von Neumann]]
