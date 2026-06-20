@@ -20,7 +20,23 @@ Nesse contexto, assinale a alternativa que representa, respectivamente, as estru
 - **C)** Lista duplamente ligada, lista simplesmente ligada, fila e pilha.
 - **D)** Pilha, fila, deque e lista simplesmente encadeada.
 - **E)** Deque, pilha, lista ligada e fila.
+---
 ## Resposta
 
 > **Letra B**
+
+---
 ## Explicação
+
+A Classe A descreve uma estrutura em que objetos podem ser inseridos somente no início ou no final da sequência. É um **Deque** (Double Ended Queue), que permite inserção e remoção nas duas extremidades.
+
+A Classe B descreve objetos organizados em ordem linear com referência ao próximo objeto. Essa é a definição de uma **lista simplesmente ligada**, onde cada elemento aponta para o próximo da sequência.
+
+A Classe C descreve objetos removidos na ordem oposta à inserção, ou seja, o último a entrar é o primeiro a sair. Essa é a definição de uma **pilha**, que segue o princípio LIFO (Last In, First Out).
+
+A Classe D descreve objetos em que o primeiro a entrar é o primeiro a sair. Essa é a definição de uma **fila**, que segue o princípio FIFO (First In, First Out).
+
+---
+## Conceitos Relacionados
+
+- [[Estruturas de Dados Lineares]]

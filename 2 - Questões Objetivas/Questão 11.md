@@ -36,7 +36,25 @@ Diante deste contexto, avalie as afirmações a seguir.
 - **D)** II e IV.
 - **E)** III e V.
 
+---
 ## Resposta
 
 > **Letra D**
+
+---
 ## Explicação
+
+A afirmação I é falsa. Aumentar o número de camadas pode melhorar a acurácia, mas tende a **aumentar** o tempo de treinamento, não diminuí-lo. Uma rede com mais camadas tem mais parâmetros para ajustar, o que exige mais processamento a cada ciclo de treinamento.
+
+A afirmação II é verdadeira. Redes convolucionais são especialmente projetadas para classificação de imagens, pois conseguem identificar padrões visuais de forma muito eficiente, melhorando a acurácia. Porém, exigem maior poder computacional para serem treinadas.
+
+A afirmação III é falsa. Aumentar o número de neurônios nas camadas tende a **melhorar** a acurácia (até certo ponto), e não piorá-la. Além disso, mais neurônios significam mais processamento, o que **aumenta** o tempo de treinamento, e não o diminui.
+
+A afirmação IV é verdadeira. Mais amostras de treinamento fornecem ao modelo mais exemplos para aprender, o que geralmente melhora a acurácia. Porém, processar um volume maior de dados exige mais tempo de treinamento.
+
+A afirmação V é falsa. Redes recorrentes são projetadas para dados sequenciais, como texto e áudio, e não para classificação de imagens. Usá-las neste contexto não seria a escolha adequada para melhorar a acurácia do sistema descrito.
+
+---
+## Conceitos Relacionados
+
+- [[Redes Neurais e Deep Learning]]

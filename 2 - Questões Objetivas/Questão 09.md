@@ -17,13 +17,25 @@ Considerando que em ambientes diferentes são necessários algoritmos diferentes
 - **C)** Tarefa mais curta primeiro; propício para sistemas interativos.
 - **D)** Escalonamento por chave circular (*round-robin*); propício para sistemas de tempo real.
 - **E)** Escalonamento por prioridades; propício para sistemas interativos.
-
+---
 ## Resposta
 
 > **Letra E**
+
+---
 ## Explicação
 
+A alternativa A é falsa. O algoritmo FILO (primeiro a chegar, último a sair) não existe como algoritmo de escalonamento. O algoritmo real é o FIFO (primeiro a chegar, primeiro a sair), que é propício para sistemas em lote, não para sistemas de tempo real.
 
+A alternativa B é falsa. O RMS (escalonamento por taxas monotônicas) é um algoritmo usado especificamente em sistemas de tempo real, não em sistemas em lote. Ele atribui prioridades com base na frequência com que cada tarefa precisa ser executada.
+
+A alternativa C é falsa. O algoritmo de tarefa mais curta primeiro é propício para sistemas em lote, pois reduz o tempo médio de espera quando se conhece antecipadamente o tempo de execução de cada processo. Em sistemas interativos, não é possível saber com precisão quanto tempo cada tarefa vai durar.
+
+A alternativa D é falsa. O round-robin é um algoritmo baseado em fatias de tempo distribuídas igualmente entre os processos, o que o torna propício para sistemas interativos, não para sistemas de tempo real.
+
+A alternativa E é verdadeira. O escalonamento por prioridades é adequado para sistemas interativos, pois permite que processos mais urgentes ou mais relevantes para o usuário sejam executados antes de outros, garantindo uma boa experiência para o usuário.
+
+---
 ## Conceitos Relacionados
 
-- [[]]
+- [[Algoritmos de Escalonamento]]

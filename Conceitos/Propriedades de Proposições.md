@@ -1,12 +1,12 @@
 # Propriedades de Proposições
-
+---
 ## Área de Estudo: IA e Sistemas Digitais
-
-
+---
 ## Explicação
 
 As proposições de lógica, podem ter propriedades únicas de acordo com o resultado de seu tabela verdade, sendo estas as tautologias, contradições e contingencia.
 
+---
 ### Tautologia
 Tautologia são proposições que sempre terão Verdadeiro (V ou T ou 1) como resultado
 #### Exemplo
@@ -60,12 +60,12 @@ Ao montar a tabela-verdade obtemos:
 | V   | V   | V                 |
 Note que não podemos afirmar se a terra está molhada quando não acontece chuva, pois a única certeza que tem é que se chover a terra tem que ficar molhada, porém se não chover outra coisa pode ter deixado ela molhada (como um regador)
 
+---
 ## Referências
 
-RUSSELL, S.; NORVIG, P. **Inteligência Artificial - Uma Abordagem Moderna**. 3. ed. New Jersey: Pearson, 2010.
+- RUSSELL, S.; NORVIG, P. **Inteligência Artificial - Uma Abordagem Moderna**. 3. ed. New Jersey: Pearson, 2010.
 
-‌
-
+---
 ## Questões Relacionadas
 
 - [[Questão 3]]
