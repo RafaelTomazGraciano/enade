@@ -26,7 +26,18 @@ Sobre a LGPD, avalie as afirmações a seguir.
 - **D)** I, III e IV.
 - **E)** II, III e IV.
 
+---
 ## Resposta
 
 > **Letra B**
+
+---
 ## Explicação
+
+A afirmação I é verdadeira. A LGPD confere proteção especial a dados sensíveis como origem racial ou étnica, convicção religiosa e opinião política, sendo as hipóteses legais que permitem o tratamento desse tipo de dado mais restritas do que as aplicáveis a dados comuns.
+
+A afirmação II é falsa. Dado anonimizado é aquele relativo a um indivíduo que não possa ser identificado, em razão de ter passado por algum meio técnico de tratamento para garantir sua desvinculação de uma pessoa. A LGPD considera que, se a anonimização pode ser revertida com recursos técnicos razoáveis, o dado ainda é considerado pessoal e continua protegido pela lei. A afirmação II contraria isso ao dizer que dados anonimizados não são pessoais mesmo quando a reversão é possível. 
+
+A afirmação III é verdadeira. É do titular o direito de acesso aos dados coletados, assim como a solicitação de correção de informações, de exclusão, de portabilidade ou de revogação do consentimento. Isso confirma que o cidadão pode exigir que empresas informem, corrijam, atualizem ou eliminem seus dados.
+
+A afirmação IV é falsa. A ANPD é responsável por fiscalizar e regulamentar a LGPD, mas não tem poder de **modificar a legislação**. A ANPD foi criada para fiscalizar o cumprimento da lei, zelar pela proteção de dados pessoais, elaborar diretrizes e aplicar sanções em casos de irregularidade. Modificar a lei é uma competência exclusiva do Poder Legislativo, não da ANPD.

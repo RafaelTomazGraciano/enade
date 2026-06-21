@@ -26,7 +26,17 @@ Em relação à metodologia *SCRUM*, avalie as afirmações a seguir.
 - **D)** I e III, apenas.
 - **E)** I, II e III.
 
+---
 ## Resposta
 
 > **Letra C**
+
+---
 ## Explicação
+
+
+
+---
+## Conceitos Relacionados
+
+- [[]]

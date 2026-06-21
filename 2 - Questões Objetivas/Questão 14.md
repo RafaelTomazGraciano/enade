@@ -28,9 +28,12 @@ A respeito dessas asserções, assinale a opção correta.
 - **D)** A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 - **E)** As asserções I e II são proposições falsas.
 
+---
 ## Resposta
 
 > **Letra C**
+
+---
 ## Explicação
 
 Antes de entender o porquê de uma ser correta e a outra ser falsa, tem que se entender o que é a Arquitetura de Von Neumann
@@ -44,6 +47,7 @@ A arquitetura de Von Neumann é simples por natureza, ótima para produção em 
 
 A segunda está se referindo ao cache de instrução. Ao invés de pegar sempre da memória RAM, desloca-se um bloco de tamanho definido para o cache, assim o contador de instrução precisa checar o cache e pegar do cache, diminuindo tempo de busca.
 
+---
 ## Conceitos Relacionados
 
 - [[Arquitetura de Von Neumann]]
