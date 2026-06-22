@@ -34,13 +34,13 @@ Neumann, o programa passa a ser armazenado na memória como dados, e a
 CPU simplesmente lê e executa instrução por instrução. Isso tornou os
 computadores muito mais fáceis de programar.
 
-###  Gargalo de Von Neumann
+### Gargalo de Von Neumann
 
 Uma limitação conhecida da arquitetura é que a CPU e a memória se
 comunicam por um único barramento. Como a CPU processa dados muito mais
 rápido do que a memória consegue fornecê-los, a CPU frequentemente fica
 ociosa esperando os dados chegarem. Essa limitação é chamada de
-**gargalo de Von Neumann**. Tecnologias comocache e pipeline foram 
+**gargalo de Von Neumann**. Tecnologias como cache e pipeline foram 
 criadas para minimizar esse problema, mas não
 fazem parte da arquitetura original.
 

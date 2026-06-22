@@ -21,7 +21,7 @@ A partir das informações apresentadas, considere o circuito combinacional da f
 Qual das alternativas apresenta a expressão booleana correspondente?
 
 - **A)** (X3 . X2') + X1'
-- **B)** (X3 . (X2') + (X1'))'
+- **B)** (X3 . (X2')) + (X1'))'
 - **C)** ((X3 . X2)' + X1')'
 - **D)** (X3 . X2')' + X1'
 - **E)** ((X3 . X2')' + X1')'
