@@ -26,9 +26,12 @@ Qual das alternativas apresenta a expressão booleana correspondente?
 - **D)** (X3 . X2')' + X1'
 - **E)** ((X3 . X2')' + X1')'
 
+---
 ## Resposta
 
 > **Letra B**
+
+---
 ## Explicação
 
 Vamos primeiro decompor cada pedaço da 

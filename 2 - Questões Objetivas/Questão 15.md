@@ -34,9 +34,13 @@ Em relação à metodologia *SCRUM*, avalie as afirmações a seguir.
 ---
 ## Explicação
 
+A afirmação I é verdadeira. O Scrum Master é o responsável por garantir que a equipe entenda e siga corretamente as práticas e regras do SCRUM. Ele atua como um facilitador, removendo obstáculos que possam atrapalhar o trabalho da equipe e ajudando a todos a usarem o framework de forma efetiva.
 
+A afirmação II é verdadeira. O Product Owner é o responsável por representar os interesses do negócio e dos clientes dentro do projeto. Ele define e prioriza o que deve ser desenvolvido, garantindo que a equipe esteja sempre focada nas funcionalidades mais importantes para o produto, sem se perder em detalhes técnicos que não agregam valor direto ao negócio.
+
+A afirmação III é falsa. No SCRUM, nem o Scrum Master nem o Product Owner têm autoridade direta sobre a equipe de desenvolvimento. O SCRUM é baseado em equipes auto-organizáveis, ou seja, a própria equipe decide como vai executar o trabalho. O Scrum Master é um facilitador, não um gerente. O Product Owner define o que deve ser feito, mas não como deve ser feito, e não tem poder de comando sobre as pessoas da equipe.
 
 ---
 ## Conceitos Relacionados
 
-- [[]]
+- [[SCRUM]]

@@ -37,7 +37,19 @@ A respeito dessas asserções, assinale a opção correta.
 - **D)** A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 - **E)** As asserções I e II são proposições falsas.
 
+---
 ## Resposta
 
 > **Letra C**
+
+---
 ## Explicação
+
+A asserção I é verdadeira. A desabilitação de interrupções é uma técnica real e conhecida para obter exclusão mútua. A ideia é se o processo desabilita todas as interrupções antes de entrar na região crítica e as reabilita ao sair, nenhum outro processo consegue tomar o controle da CPU nesse intervalo. Porém, como essa técnica dá ao processo um poder muito grande sobre o sistema, o controle dela é restrito ao Sistema Operacional e não pode ser feito por processos de usuário.
+
+A asserção II é falsa. A afirmação diz que a desabilitação de interrupções é mais eficiente em sistemas **multiprocessadores**. Na verdade é o contrário, essa técnica é eficiente apenas em sistemas com um **único processador**. Em sistemas multiprocessadores, desabilitar a interrupção de uma CPU não impede que outro processador acesse a mesma região crítica ao mesmo tempo, tornando a técnica ineficaz nesses ambientes.
+
+---
+## Conceitos Relacionados
+
+- [[Exclusão Mútua e Regiões Críticas]]
