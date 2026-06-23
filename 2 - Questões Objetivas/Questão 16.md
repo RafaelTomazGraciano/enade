@@ -30,3 +30,15 @@ Qual das alternativas apresenta a expressão booleana correspondente?
 
 > **Letra B**
 ## Explicação
+
+Vamos primeiro decompor cada pedaço da 
+De inicio iremos ter
+- (X1')
+- (X2')
+- X3
+Agora juntaremos (X2') e X3 obtendo
+- (X3 . (X2')). **P.S.:** Lembre-se que pela ordem, esta deve ser executada antes de ir para a porta ou
+Juntando o que tem até o momento com o ou
+-  (X3 . (X2')) + (X1')
+Basta negar o resultado desta expressão e obteremos a b
+- ((X3 . (X2')) + (X1'))'
