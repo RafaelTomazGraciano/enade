@@ -1,6 +1,6 @@
 > [!warning] Questão Anulada
 > Esta questão foi **ANULADA** 
-## Questão 29 - *ANULADA
+## Questão 29 - *ANULADA*
 
 ### Texto
 
@@ -36,4 +36,9 @@ Em relação às operações morfológicas de Erosão e Dilatação, avalie as a
 ## Possível Resposta
 
 > **Letra B**
+
+---
 ## Explicação
+
+- **I** descreve corretamente a Dilatação (valor máximo)
+- **IV** descreve corretamente a Erosão (valor mínimo)
