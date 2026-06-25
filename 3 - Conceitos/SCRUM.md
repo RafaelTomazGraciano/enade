@@ -1,7 +1,9 @@
 # SCRUM
 
+# SCRUM
+---
 ## Área de Estudo: Engenharia de Software e Gerência de Projetos
-
+---
 ## Explicação
 
 O SCRUM é um framework ágil para organização e gerenciamento de projetos
@@ -31,15 +33,15 @@ de software.
   no projeto, mantida pelo Product Owner
 - **Backlog da sprint:** subconjunto do backlog do produto selecionado
   para ser desenvolvido na sprint atual
-
+---
 ## Referências
 
 - [Scrum](https://www.atlassian.com/br/agile/scrum)
-
+---
 ## Questões Relacionadas
 
 - [[Questão 15]]
-
+---
 ## Conceitos Relacionados
 
 - [[]]

@@ -1,7 +1,7 @@
 # Tipos de Aprendizado
-
+---
 ## Área de Estudo: Aprendizado de Máquina
-
+---
 ## Explicação
 
 O aprendizado de máquina é uma área da inteligência artificial em que
@@ -29,15 +29,15 @@ que podem ser aplicadas a novos dados.
 - Exemplos de algoritmos: K-means (clusterização), PCA (redução de
   dimensionalidade)
 
-
+---
 ## Referências
 
 - [Tipos de Aprendizado de Máquina](https://lamfo-unb.github.io/2017/07/27/tres-tipos-am/)
-
+---
 ## Questões Relacionadas
 
 - [[Questão 18]]
-
+---
 ## Conceitos Relacionados
 
 - [[Redes Neurais e Deep Learning]]

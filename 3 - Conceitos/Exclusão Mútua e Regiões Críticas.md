@@ -1,7 +1,10 @@
+---
+
+---
 # Exclusão Mútua e Regiões Críticas
-
+---
 ## Área de Estudo: Sistemas Operacionais
-
+---
 ## Explicação
 
 Em sistemas multitarefa, vários processos competem pelo uso da CPU
@@ -39,16 +42,16 @@ podem estar em suas regiões críticas ao mesmo tempo.
 - **Semáforos:** mecanismo mais robusto que usa operações atômicas para
   controlar o acesso à região crítica, funcionando tanto em sistemas
   com um quanto com múltiplos processadores.
-
+---
 ## Referências
 
 - Livro - Sistemas Operacionais Modernos (Tanenbaum)
 - [O PROBLEMA DA EXCLUSÃO MÚTUA](http://www.inf.ufrgs.br/~asc/livro/cap4-14.pdf)
-
+---
 ## Questões Relacionadas
 
 - [[Questão 17]]
-
+---
 ## Conceitos Relacionados
 
 - [[Algoritmos de Escalonamento]]

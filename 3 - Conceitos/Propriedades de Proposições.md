@@ -69,7 +69,7 @@ Note que não podemos afirmar se a terra está molhada quando não acontece chuv
 ## Questões Relacionadas
 
 - [[Questão 3]]
-
+---
 ## Conceitos relacionados
 
 - [[Indução]]

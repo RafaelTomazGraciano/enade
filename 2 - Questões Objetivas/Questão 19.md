@@ -27,8 +27,17 @@ Com base no texto apresentado e sobre os objetivos do uso de personas e cenário
 - **C)** II e III.
 - **D)** I, II e IV.
 - **E)** II, III e IV.
-
+---
 ## Resposta
 
 > **Letra D**
+
+---
 ## Explicação
+
+
+
+---
+## Conceitos Relacionados
+
+- [[]]
