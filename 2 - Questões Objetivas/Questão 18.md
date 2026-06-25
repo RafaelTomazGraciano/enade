@@ -28,7 +28,23 @@ Considerando as informações do texto, avalie as afirmações a seguir.
 - **D)** I, II e IV.
 - **E)** I, III e IV.
 
+---
 ## Resposta
 
 > **Letra E**
+
+---
 ## Explicação
+
+A afirmação I é verdadeira. A regressão linear é um algoritmo clássico de aprendizado supervisionado. Nela, o modelo é treinado com um conjunto de exemplos que já possuem a resposta correta, e aprende a prever valores para novos dados.
+
+A afirmação II é falsa. A diferença entre a saída desejada e a saída gerada é a definição de erro no aprendizado **supervisionado**, não no não supervisionado. No aprendizado supervisionado, existe uma resposta de referência com a qual a saída do modelo pode ser comparada. No aprendizado não supervisionado, não existe essa referência, portanto não faz sentido calcular um erro dessa forma.
+
+A afirmação III é verdadeira. O aprendizado não supervisionado é usado justamente quando não há respostas de referência disponíveis e o objetivo é descobrir padrões, agrupamentos ou estruturas nos dados por conta própria. Exemplos comuns são algoritmos de clusterização, como o K-means.
+
+A afirmação IV é verdadeira. O aprendizado supervisionado treina o modelo com dados cujas respostas já são conhecidas. Após o treinamento, o modelo é capaz de generalizar esse conhecimento e tomar decisões para novos dados que ainda não foram vistos.
+
+---
+## Conceitos Relacionados
+
+- [[Tipos de Aprendizado]]
