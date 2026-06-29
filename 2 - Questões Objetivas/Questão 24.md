@@ -27,8 +27,25 @@ Com base no texto acima e considerando os conceitos de segurança e criptografia
 - **C)** III e IV.
 - **D)** I, II e III.
 - **E)** I, II e IV.
-
+---
 ## Resposta
 
 > **Letra E**
+
+---
 ## Explicação
+
+
+A afirmação I é verdadeira. Em criptografia assimétrica, cada usuário possui um par de chaves: uma pública e uma privada. A chave pública pode ser armazenada em um servidor e consultada por qualquer pessoa. Para verificar a autenticidade de uma mensagem, o receptor usa a chave pública do remetente obtida do servidor para confirmar que a mensagem foi assinada com a chave privada correspondente, que só o remetente possui.
+
+A afirmação II é verdadeira. O vetor de inicialização (IV) é um valor aleatório combinado com a chave para garantir que a mesma mensagem encriptada em momentos diferentes produza resultados diferentes. Isso oculta padrões nos dados encriptados e impede ataques de reprodução, em que um atacante captura e reenvia uma mensagem válida para enganar o destinatário.
+
+A afirmação III é falsa. O AES é de fato um algoritmo de criptografia simétrica. Criptografia simétrica usa a **mesma chave** tanto para encriptar quanto para decriptar a mensagem. A alternativa descreve o uso de chaves diferentes para encriptar e decriptar, o que é a definição de criptografia **assimétrica**, não simétrica.
+
+A afirmação IV é verdadeira. O SHA-256 é uma função de hash criptográfico. Ele gera um valor fixo a partir de uma mensagem, e qualquer alteração na mensagem, por menor que seja, produz um hash completamente diferente. Por isso, comparar o hash da mensagem enviada com o da mensagem recebida permite detectar se houve alguma modificação, garantindo a integridade da comunicação.
+
+
+---
+## Conceitos Relacionados
+
+- [[Criptografia]]
