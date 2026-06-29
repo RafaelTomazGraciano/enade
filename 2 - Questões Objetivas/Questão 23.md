@@ -23,8 +23,43 @@ Considerando o texto e a figura apresentados e que a seguinte lista de elementos
 - **C)** O percurso da árvore em Em-ordem irá processar os elementos na seguinte ordem (do primeiro ao último): -2, 5, 7, 10, 18, 23, 25, 27, 34, 36, 40.
 - **D)** O percurso da árvore em Pós-ordem irá processar os elementos na seguinte ordem (do primeiro ao último): 27, 18, 5, -2, 10, 7, 23, 25, 34, 40, 36.
 - **E)** O número máximo de elementos que essa árvore poderá ter com 10 níveis será de 1 024 elementos.
-
+---
 ## Resposta
 
 > **Letra C**
+
+---
 ## Explicação
+
+Primeiro, é necessário construir a árvore inserindo os elementos na ordem dada: (27, 34, 40, 18, 23, 5, 25, 36, 10, 7, -2).
+
+A raiz é 27. A partir daí, cada elemento é inserido seguindo a regra: menores vão para a esquerda, maiores ou iguais vão para a direita.
+
+```
+                27
+              /    \
+            18      34
+           /  \       \
+          5   23      40
+         / \    \    /
+       -2  10   25  36
+             \
+              7
+```
+
+Com a árvore construída, é possível avaliar cada alternativa.
+
+**Alternativa A é falsa.** A árvore tem 6 níveis de altura, não 5. Além disso, à esquerda da raiz estão: 18, 5, 23, -2, 10, 25, 7, -2, ou seja, 7 elementos, não 6.
+
+**Alternativa B é falsa.** O percurso em pré-ordem visita os nós na ordem: raiz, subárvore esquerda, subárvore direita. A ordem correta seria: 27, 18, 5, -2, 10, 7, 23, 25, 34, 36, 40. A alternativa apresenta uma ordem invertida, como se fosse pós-ordem.
+
+**Alternativa C é verdadeira.** O percurso em em-ordem visita os nós na ordem: subárvore esquerda, raiz, subárvore direita. Em uma Árvore Binária de Busca, o percurso em em-ordem sempre produz os elementos em ordem crescente. Como os elementos são -2, 5, 7, 10, 18, 23, 25, 27, 34, 36, 40, a alternativa está correta.
+
+**Alternativa D é falsa.** O percurso em pós-ordem visita os nós na ordem: subárvore esquerda, subárvore direita, raiz. A raiz (27) deveria ser a última visitada, mas a alternativa a coloca como primeira.
+
+**Alternativa E é falsa.** Uma árvore binária com N níveis pode ter no máximo 2^N - 1 elementos. Com 10 níveis, o máximo seria 2^10 - 1 = 1023 elementos, não 1024.
+
+---
+## Conceitos Relacionados
+
+- [[Árvore Binária de Busca]]
