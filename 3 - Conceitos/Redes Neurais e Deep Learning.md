@@ -37,4 +37,4 @@ Tempo necessário para a rede ajustar seus parâmetros. É aumentado por:
 ---
 ## Conceitos Relacionados
 
-- [[]]
+- [[Tipos de Aprendizado]]
