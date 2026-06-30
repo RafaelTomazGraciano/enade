@@ -26,7 +26,23 @@ Considerando a construção de interfaces adaptativas na interação homem-compu
 - **D)** II e III, apenas.
 - **E)** I, II e III.
 
+---
 ## Resposta
 
 > **Letra A**
+
+---
 ## Explicação
+
+A afirmação I é verdadeira. As técnicas de fragmentos de texto, fragmentos condicionais, páginas variantes e abordagem baseada em frames são técnicas clássicas de adaptação de **conteúdo**. Todas elas atuam sobre o que é apresentado ao usuário, alterando ou filtrando o conteúdo da página conforme o perfil ou comportamento do usuário.
+
+A afirmação II é falsa. Layouts de página e guias de estilos são técnicas de adaptação de **apresentação**, não de navegação. Elas definem como o conteúdo é visualmente organizado e exibido na tela, o que caracteriza adaptação da apresentação do conteúdo.
+
+A afirmação III é falsa. Orientação direta, anotação de links, apresentação e ocultação e ordenação de links são técnicas de adaptação de **navegação**, não de apresentação. Essas técnicas atuam sobre a estrutura de links e caminhos disponíveis ao usuário, guiando ou restringindo sua navegação com base no seu perfil.
+
+As afirmações II e III descrevem técnicas corretas, mas as associam ao nível errado. A II descreve técnicas de apresentação chamando-as de navegação, e a III descreve técnicas de navegação chamando-as de apresentação.
+
+---
+## Conceitos Relacionados
+
+- [[Interfaces Adaptativas]]

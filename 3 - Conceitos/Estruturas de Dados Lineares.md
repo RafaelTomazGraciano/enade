@@ -37,4 +37,4 @@ Estruturas de dados lineares organizam elementos em sequência. As principais s�
 ---
 ## Conceitos Relacionados
 
-- [[]]
+- [[Árvore Binária de Busca]]

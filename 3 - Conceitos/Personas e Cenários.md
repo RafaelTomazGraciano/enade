@@ -1,6 +1,6 @@
 # Personas e Cenários
 ---
-## Área de Estudo: Interação Humano-Computador
+## Área de Estudo: Interação Humano-Computador (IHC)
 ---
 ## Explicação
 
@@ -41,4 +41,4 @@ formais, diagramas UML ou linguagens de especificação formal.
 ---
 ## Conceitos Relacionados
 
-- [[]]
+- [[Interfaces Adaptativas]]

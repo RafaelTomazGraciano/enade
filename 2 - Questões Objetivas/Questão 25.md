@@ -1,4 +1,3 @@
-
 ## Questão 25
 
 ### Texto
@@ -27,7 +26,23 @@ Considerando as informações apresentadas, avalie as afirmações a seguir.
 - **D)** I, III e IV.
 - **E)** II, III e IV.
 
+---
 ## Resposta
 
 > **Letra B**
+
+---
 ## Explicação
+
+A afirmação I é verdadeira. No modelo SaaS, o usuário acessa o software diretamente pelo navegador ou por um cliente leve, sem precisar instalar, manter ou atualizar nada localmente. Toda a infraestrutura, o sistema operacional, o hardware e as atualizações do software são de responsabilidade do provedor. O usuário simplesmente usa a aplicação.
+
+A afirmação II é falsa. A definição de elasticidade apresentada está errada. Elasticidade é a capacidade de aumentar ou diminuir de forma automática a **quantidade de recursos computacionais** (como processamento, memória e armazenamento) conforme a demanda. A afirmação descreve elasticidade como controle sobre o "tempo de disponibilidade", o que é incorreto. Controle de tempo de disponibilidade está relacionado a acordos de nível de serviço (SLA), não a elasticidade.
+
+A afirmação III é falsa. A Nuvem Comunidade é compartilhada por organizações que possuem interesses ou requisitos em comum, como regulamentações, políticas de segurança ou missões similares. O erro da afirmação está em dizer que o objetivo é "gerenciar os recursos computacionais pertencentes a cada uma das organizações". Na Nuvem Comunidade, a infraestrutura é **compartilhada entre as organizações**, e não cada uma gerencia os seus próprios recursos separadamente.
+
+A afirmação IV é verdadeira. No modelo IaaS, o provedor oferece a infraestrutura básica (servidores, rede, armazenamento físico), mas o usuário tem controle sobre os sistemas operacionais que instala, o armazenamento que configura e os aplicativos que implanta. É o modelo que dá mais controle ao usuário entre os três modelos de serviço.
+
+---
+## Conceitos Relacionados
+
+- [[Computação em Nuvem]]
