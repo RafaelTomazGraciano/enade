@@ -21,3 +21,33 @@ A tabela verdade pode ser feita de maneiras diferentes, trocando “1”s e “0
 ---
 ## Explicação
 
+Um somador complexo é um circuito binário que possui três entradas (A, B, Carry In) e duas saídas (Sum, Carry out). 
+
+| A   | B   | Carry<br>In | Sum | Carry<br>Out |
+| --- | --- | ----------- | --- | ------------ |
+| 0   | 0   | 0           | 0   | 0            |
+| 0   | 0   | 1           | 1   | 0            |
+| 0   | 1   | 0           | 1   | 0            |
+| 0   | 1   | 1           | 0   | 1            |
+| 1   | 0   | 0           | 1   | 0            |
+| 1   | 0   | 1           | 0   | 1            |
+| 1   | 1   | 0           | 0   | 1            |
+| 1   | 1   | 1           | 1   | 1            |
+Podemos usar mapa de Karnaugh ou Soma de Produtos (SdP)
+
+Por SdP obtemos Sum como:
+$$
+\text{Sum} = (\neg A \lor \neg B \lor C_{in}) \land (\neg A \lor B \lor \neg C_{in}) \land (A \lor \neg B \lor \neg C_{in}) \land (A \lor B \lor C_{in})
+$$
+Ou se souber a lógica:
+$$
+\text{Sum} = A \oplus B \oplus C_{in}
+$$
+Por SdP obtemos Carry Out como:
+$$
+C_{out} = (\neg A \lor B \lor C_{in}) \land (A \lor \neg B \lor C_{in}) \land (A \lor B \lor \neg C_{in}) \land (A \lor \neg B \lor C_{in}) \land (A \lor B \lor C_{in})
+$$
+Ou se souber a lógica (ou simplificando):
+$$
+C_{out} = (A \land B) \lor ((A \oplus B) \land C_{in})
+$$
