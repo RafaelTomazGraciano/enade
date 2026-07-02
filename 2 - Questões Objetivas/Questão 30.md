@@ -28,10 +28,23 @@ Considerando as informações do texto, avalie as afirmações a seguir.
 - **D)** I, II e III.
 - **E)** I, III e IV.
 
+---
 ## Resposta
 
 > **Letra E**
+
+---
 ## Explicação
 
+A afirmação I é verdadeira. O analisador sintático recebe como entrada os tokens (símbolos) gerados pelo analisador léxico e verifica se eles formam estruturas gramaticalmente válidas de acordo com as regras da linguagem.
 
+A afirmação II é falsa. O analisador léxico identifica os tokens de um programa, mas a classificação desses tokens **não é a mesma** para linguagens diferentes. Cada linguagem tem suas próprias palavras reservadas, operadores e regras para identificadores. Por exemplo, `begin` é uma palavra reservada em Pascal mas não em Java. O analisador léxico é construído especificamente para a linguagem que está sendo compilada.
 
+A afirmação III é verdadeira. O analisador semântico verifica se as construções do programa fazem sentido do ponto de vista do significado, mesmo que sejam sintaticamente corretas. Exemplos de erros semânticos incluem usar uma variável sem declarar, somar um inteiro com um booleano ou chamar uma função com número errado de argumentos.
+
+A afirmação IV é verdadeira. Após a geração do código intermediário, a fase de otimização aplica transformações para tornar o código mais eficiente, reduzindo o número de operações, eliminando código morto e melhorando o uso de registradores, com o objetivo de gerar um código de máquina final mais rápido.
+
+---
+## Conceitos Relacionados
+
+- [[Compiladores e Fases da Compilação]]

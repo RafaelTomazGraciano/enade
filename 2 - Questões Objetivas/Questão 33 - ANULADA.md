@@ -26,7 +26,6 @@ mulher(luiza).
 ```
 
 ---
-
 ## Enunciado
 
 Qual regra lógica de produção está corretamente escrita para verificar uma das situações lógicas em que duas pessoas são irmãs?
@@ -41,6 +40,8 @@ Qual regra lógica de produção está corretamente escrita para verificar uma d
 ## Possível Resposta
 
 > **Letra D**
+
+---
 ## Explicação
 
 - Verifica que X e Y têm o mesmo pai P (`paide(X,P), paide(Y,P)`)

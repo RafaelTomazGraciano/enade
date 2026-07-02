@@ -36,7 +36,23 @@ Considerando o modelo teórico do *pipeline* apresentado, avalie as afirmações
 - **D)** I, II e III.
 - **E)** II, III e IV.
 
+---
 ## Resposta
 
 > **Letra B**
+
+---
 ## Explicação
+
+A afirmação I é verdadeira. Quando ocorre uma falta na busca de instrução, o estágio S1 fica sem instrução útil para processar naquele ciclo. Essa ausência é chamada de bolha. Como o pipeline tem 5 estágios e a bolha percorre um estágio por ciclo, ela levará exatamente 4 ciclos para passar pelos estágios S2, S3, S4 e S5 até ser eliminada do pipeline.
+
+A afirmação II é falsa. No modelo teórico do pipeline descrito no texto, todos os estágios têm duração fixa e todas as instruções passam por todos os estágios, independentemente de precisarem ou não de determinado estágio. Um estágio não pode ser pulado, pois isso quebraria a sincronização do pipeline.
+
+A afirmação III é falsa. O estágio S1 é responsável apenas por buscar instruções, não dados. No pipeline descrito, S1 busca instruções na cache de instruções. A busca de dados ocorre no estágio S3, que localiza e busca os operandos. Portanto, S1 não busca dados na cache de dados.
+
+A afirmação IV é verdadeira. O BTB (branch target buffer) é uma técnica que permite prever o destino de instruções de desvio condicional antes que o desvio seja resolvido. Com isso, as instruções seguintes podem ser buscadas e inseridas no pipeline imediatamente, sem que seja necessário esperar a resolução do desvio, o que evita as bolhas que normalmente ocorreriam nessa situação.
+
+---
+## Conceitos Relacionados
+
+- [[Pipeline]]

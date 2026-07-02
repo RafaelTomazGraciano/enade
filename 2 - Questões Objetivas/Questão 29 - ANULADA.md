@@ -1,3 +1,4 @@
+
 > [!warning] Questão Anulada
 > Esta questão foi **ANULADA** 
 ## Questão 29 - *ANULADA*

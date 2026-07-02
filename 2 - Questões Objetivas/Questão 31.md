@@ -34,7 +34,32 @@ Considerando que o estado inicial de M é q0, que a sua fita se encontra inicial
 - **D)** I, III e IV.
 - **E)** II, III e IV.
 
+---
 ## Resposta
 
 > **Letra E**
+
+---
 ## Explicação
+
+Para avaliar as afirmações, é necessário simular o funcionamento da máquina de Turing com a entrada `110011`. O diagrama mostra que a máquina funciona lendo o símbolo mais à esquerda, substituindo-o por "B", indo até o símbolo mais à direita, substituindo-o por "B", e voltando para verificar o próximo par. Esse processo verifica se a entrada é um palíndromo de comprimento par.
+
+**Simulando os movimentos:**
+
+Partindo de `110011` com a cabeça no primeiro "1":
+
+- Movimentos 1 e 2: lê o "1" da esquerda, substitui por "B", move para a direita até o "1" da direita, substitui por "B". A fita fica `B1001B`.
+- Movimentos 3 e 4: a cabeça retorna para a esquerda em busca do próximo símbolo não-B.
+
+**Afirmação I é falsa.** Após 4 movimentos, os dois "1" das extremidades já foram substituídos por "B", portanto o conteúdo da fita excluindo "B" é `1001`, não `110011`.
+
+**Afirmação II é verdadeira.** Após 8 movimentos, o primeiro par ("1" e "1") já foi verificado e apagado nos primeiros movimentos. O conteúdo da fita excluindo "B" é `1001`, confirmando que os símbolos das extremidades foram removidos.
+
+**Afirmação III é verdadeira.** A entrada `110011` é um palíndromo binário de comprimento par (6 caracteres). Como a máquina aceita exatamente essa classe de palavras, ela irá processar todos os pares corretamente e terminar no estado de aceitação qf.
+
+**Afirmação IV é verdadeira.** A linguagem aceita por M é a linguagem dos palíndromos binários de comprimento par. Essa é uma linguagem livre de contexto, pois pode ser descrita por uma gramática livre de contexto. Linguagens livres de contexto são reconhecidas por autômatos com pilha, portanto existe sim um autômato com pilha que aceita essa mesma linguagem.
+
+---
+## Conceitos Relacionados
+
+- [[Máquina de Turing]]
