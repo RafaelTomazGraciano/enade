@@ -13,7 +13,7 @@
 ---
 ## Questões Relacionadas
 
-- [[Questão 3]]
+- [[]]
 ---
 ## Conceitos relacionados
 
